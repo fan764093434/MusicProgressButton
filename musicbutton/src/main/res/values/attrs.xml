@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MusicProgressButton">
+        <attr name="centerCircleColor" format="color" />
+        <attr name="progressColor" format="color" />
+        <attr name="progressBackgroundColor" format="color" />
+        <attr name="progressLineWidth" format="dimension" />
+        <attr name="maxProgress" format="float" />
+        <attr name="currentProgress" format="float" />
+        <attr name="barLineWidth" format="dimension" />
+        <attr name="barLineColor" format="color" />
+        <attr name="playButtonColor" format="color" />
+        <attr name="speed" format="integer" />
+    </declare-styleable>
+</resources>
